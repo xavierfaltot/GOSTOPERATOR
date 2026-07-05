@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="ChatGPT Image 5 juil  2026, 12_38_01" src="https://github.com/user-attachments/assets/9f683485-cb05-486d-b972-4568ea5ae1a0" />
+<img width="1536" height="1024" alt="GOSTOPERATOR_PLAQUE" src="https://github.com/user-attachments/assets/ca4e8d83-2490-4b1b-940c-4f2efb6c1599" />
 
 # GOST OPERATOR
 
