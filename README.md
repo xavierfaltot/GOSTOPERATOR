@@ -24,7 +24,7 @@ AI operating system for documentary filmmaking.
 ### 🧠 Mind Operator
 Thinking companion for research, knowledge management and decision making.
 
-### 🏛 Gouv Operator
+### 🏛 Gvrt Operator
 Semantic operating system for governments, institutions and public services.
 
 ---
