@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="ChatGPT Image 5 juil  2026, 12_38_01" src="https://github.com/user-attachments/assets/9f683485-cb05-486d-b972-4568ea5ae1a0" />
+
 # GOST OPERATOR
 
 ## Software-born Editorial Systems
